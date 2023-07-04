@@ -1,0 +1,2 @@
+This is a simple Flask application that provides an API for managing cafes.
+It uses SQLAlchemy to interact with a SQLite database to store and retrieve cafe information.
